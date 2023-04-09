@@ -1,20 +1,20 @@
-![Manning Publications Logo](ManningLogo.png)
+![Manning Publications Logo](P5_js/ManningLogo.png)
 # MLP-[Creative Coding with P5.js](https://liveproject.manning.com/project/216)
 ## OUTLINE
 This Live Project from Manning Publishing includes **five creative milestones** that progressively build on each other. It follows a step-by-step process supported by a visualized structure and visual starting points for those milestones.
-### 1. [Abstract Logo Art](1.AbstractLogo/README.md)
+### 1. [Abstract Logo Art](./1.AbstractLogo/README.md)
 Drawing singular visual elements
 
-### 2. [Contemporary Visual Art](P5_js/2.ContempVisArt/README.md)
+### 2. [Contemporary Visual Art](./2.ContempVisArt/README.md)
 Creative complexity of combined visual elements
 
-### 3. [Animating Visual Art](P5_js/3.Animating/README.md)
+### 3. [Animating Visual Art](./3.Animating/README.md)
 Create animated versions of previous artworks
 
-### 4. [Photo in Interaction](P5_js/4.PhotoInteract/README.md)
+### 4. [Photo in Interaction](./4.PhotoInteract/README.md)
 Uses interactions to animate an artwork
 
-### 5. [Visualize Music](P5_js/5.Music/README.md)
+### 5. [Visualize Music](./5.Music/README.md)
 Complete a bigger project linking digital visuals with audio material
 
 ## PREREQUISITES
