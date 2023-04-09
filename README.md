@@ -1,4 +1,4 @@
-![Manning Publications Logo](P5_js/ManningLogo.png)
+![Manning Publications Logo](ManningLogo.png)
 # MLP-[Creative Coding with P5.js](https://liveproject.manning.com/project/216)
 ## OUTLINE
 This Live Project from Manning Publishing includes **five creative milestones** that progressively build on each other. It follows a step-by-step process supported by a visualized structure and visual starting points for those milestones.
