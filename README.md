@@ -1,39 +1,30 @@
-![Manning Publications Logo](ManningLogo.png)
-# MLP-[Creative Coding with P5.js](https://liveproject.manning.com/project/216)
-## OUTLINE
-This Live Project from Manning Publishing includes **five creative milestones** that progressively build on each other. It follows a step-by-step process supported by a visualized structure and visual starting points for those milestones.
-### 1. [Abstract Logo Art](./1.AbstractLogo/README.md)
-Drawing singular visual elements
+# 1. Abstract Art Logo
+The objective of this milestone is to find an abstract logo that you like and draw it in P5.js. Sharpen your visual senses, make the first steps in Processing, and put your programming muscle memory to work.
+1. Become familiar with the P5.js web editor
+2. Research ideas for a suitable Logo
+3. Sketch a suitable Logo
+   
+   I thought of the idea of a logo for "Grantham Hall Research" based on the letters *GHR*
+   
+   These could be constructed from line segments like a 7-segment display.
+   
+   Using a 3 by 3 grid with a 3:2 aspect ratio (shown below)
+   
+   ![3 by 3 grid](SegmentStyle3.png)_segment grid style_
+   
+   I came up with the following sketch for a character set:
+   ![Line segment character set sketch](LineSegmentChars.jpg)_Line Segment Characters Set sketch_
+   
+4. Break the Logo into dominant visual layers
+   
+   Each segment or group of segments could be a separate layer...
+   
+   Plus a surrounding container (say... an oval shape) with a colour filled background
+   
+5. Draw each layer in P5.js web editor canvas
+   [This P5.js Web Editor script](GHR_logo_p5_js.txt) was developed to display the basic logo outline shown below:
+   ![GHR log  Basic outline](GHRlogoDrawing.png)_GHR Logo Basic Outline_
 
-### 2. [Contemporary Visual Art](./2.ContempVisArt/README.md)
-Creative complexity of combined visual elements
 
-### 3. [Animating Visual Art](./3.Animating/README.md)
-Create animated versions of previous artworks
 
-### 4. [Photo in Interaction](./4.PhotoInteract/README.md)
-Uses interactions to animate an artwork
-
-### 5. [Visualize Music](./5.Music/README.md)
-Complete a bigger project linking digital visuals with audio material
-
-## PREREQUISITES
-* Basic Javascript
-* Basic maths
-* Basic P5.js (optional)
-* A recent Windows, Linux of MacOS machine
-* HD screen and Headphones
-* Internet connection
-
-## REFERENCES
-* P5js Documentation:
-	* [The P5.js Web Editor and selected libraries](https://editor.p5js.org/)
-	* [P5.js libraries](https://p5js.org/libraries/)
-	* [Additional P5.js Libraries](https://livebook.manning.com/book/javascript-on-things)
-* [Secrets of the JavaScript Ninja](https://livebook.manning.com/book/secrets-of-the-javascript-ninja-second-edition/about-this-book/)
-* [Function-light JavaScript](https://www.manning.com/books/functional-light-javascript)
-* [JavaScript Gymnasium - Book Bundle](https://www.manning.com/bundles/javascript-gymnasium)
-* [D3.js in Action (2nd Edn)](https://livebook.manning.com/book/d3js-in-action-second-edition)
-* Documentary: [Abstract: The Art of Design](https://www.netflix.com/nl-en/title/80057883)
-* Online Art Platform: [Artsy](https://www.artsy.net/)
-
+## <<< [BACK TO MENU](../README.md) <<<
