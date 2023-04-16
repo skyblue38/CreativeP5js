@@ -1,0 +1,25 @@
+P5.js GUI JavaScript Variable editor
+====================================
+
+1. First get the reference to SCRIPT source from google:
+use Google to search for "dat gui cdn" -->> finds "https://cdnjs.com/libraries/dat-gui"
+2. Go there and find Version 0.7.9
+3. After the "dat.gui.min.js" tab, Click the </> icon to get a copy of the <SCRIPT></SCRIPT> tag and contents (as shown below)
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.9/dat.gui.min.js" integrity="sha512-WoO4Ih0CDOSLYafy22wZD/mcJ7k0ESLqtQsFa6zFKnEUrbtuGU+GkLtVhgt93xa2qewG5gKEC6CWlN8OaCTSVg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+4. Now go to the P%.js Editor page (http://editor.p5js.org/)
+5. open the left-hand file border (Click the red ">" hover button)
+6. Select "index.html"
+7. Insert the copied <SCRIPT> Tag (copied from CDN above) after the existing <SCRIPT> section
+8. Select "sketch.js" and restart the script (Click "STOP" button and click "RUN" button again)
+
+Installing p5.EasyCam
+=====================
+
+Details at https://github.com/freshfork/p5.EasyCam
+
+Just add: <scritpt src="https://cdn.jsdelivr.net/gh/freshfork/p5.EasyCam/p5.easycam.min.js"></script>
+to the index.html
+
+
+
+
